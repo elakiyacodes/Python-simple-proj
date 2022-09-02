@@ -1,0 +1,36 @@
+# Introduction to Chatbots
+
+"""
+- Simulations which can understand human lang, process it and interact with humans while performing tasks
+- First bot is called as "Eliza" by Joseph in 1996
+
+# props
+
+- Python lib
+- automated responses
+- ML algo
+- Lang Independent
+- train data
+"""
+
+# Types of Chatbots
+
+"""
+- text based
+- voice based
+"""
+
+# training the chatbot
+
+"""
+import Chatterbot-corpus = Train the bot = it is the corpus of data inclined in chatterbot module
+"""
+
+# Use case - Flask chatterbot:
+"""
+- make a web page using Flask
+- app contains a Chatbot
+- train the bot
+"""
+
+
